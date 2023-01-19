@@ -28,6 +28,7 @@ const onSubmit = () => {
       <button onClick={onSubmit}>Login</button>
       <h1>{fullName}</h1>
       <h2>{collage}</h2>
+      <p>Assignment done by Vivek Kumar Collage id - 12007412</p>
       
     </div>
   )
